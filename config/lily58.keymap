@@ -60,7 +60,7 @@
 &trans &trans &trans &trans    &trans &trans                       &trans      &trans    &trans    &trans    &trans    &trans
 &trans &trans &trans &kp PG_UP &trans &trans                       &trans      &trans    &trans    &trans    &trans    &trans
 &trans &trans &trans &kp PG_DN &trans &trans                       &kp LEFT    &kp DOWN  &kp UP    &kp RIGHT &trans    &trans
-&trans &trans &trans &trans    &trans &trans    &trans   &trans    &kp KP_PLUS &kp MINUS &kp EQUAL &trasn    &trans    &kp BSLH
+&trans &trans &trans &trans    &trans &trans    &trans   &trans    &kp KP_PLUS &kp MINUS &kp EQUAL &trans    &trans    &kp BSLH
                      &trans    &trans &trans    &trans   &trans    &trans      &trans    &trans
             >;
 
